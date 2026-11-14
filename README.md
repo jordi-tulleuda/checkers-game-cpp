@@ -62,7 +62,7 @@ The tests check coordinate conversion, movement metadata and a sample starting b
 - **Institution:** Universitat Autònoma de Barcelona (UAB)
 - **Subject:** Programming Methodology, first year (2024–2025)
 - **Team:** Two students
-- **Mark:** 10.5 (reported by the student)
+- **Mark:** 10.5
 - **Technology:** C++, Visual Studio/Windows, course-provided SDL2 graphics framework
 
 ### Attribution and distribution
