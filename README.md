@@ -13,7 +13,7 @@ The assignment provided **C++ class headers/interfaces and a graphical library**
 - Replay of saved games and support for text-based game data.
 - Integration with the **course-provided SDL2-based graphical library** (the library is not redistributed here).
 
-These features are present in the submitted source, but I have **not independently built and played the complete graphical game** in the portfolio environment.
+The complete graphical application was developed using Visual Studio 2022. However, it has not been rebuilt or re-tested as part of this source-only portfolio release.
 
 ## What was provided vs. what we developed
 
