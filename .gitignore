@@ -1,0 +1,10 @@
+build/
+.vs/
+*.user
+*.obj
+*.pdb
+*.exe
+*.dll
+*.tlog
+*.ilk
+.DS_Store
